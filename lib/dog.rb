@@ -8,4 +8,4 @@ def sit
   puts "The dog is sitting"
 end 
 end 
-Dog.new.sit 
+Dog.do.sit 
